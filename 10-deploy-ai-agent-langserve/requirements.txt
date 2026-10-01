@@ -20,5 +20,5 @@ langgraph==0.1.19
 aiosqlite==0.20.0
 google-api-python-client==2.142.0
 google-auth-oauthlib==1.2.1
-oauthlib==3.2.2
+oauthlib==4.0.0
 requests-oauthlib==2.0.0
